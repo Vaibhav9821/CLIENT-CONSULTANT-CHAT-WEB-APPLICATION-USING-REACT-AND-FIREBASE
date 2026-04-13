@@ -31,4 +31,4 @@ Secure Firebase Backend
 • Firebase Authentication
 • Protected routes
 
- Clean, responsive, and user-friendly UI
+ Clean, responsive, and user-friendly UI.
